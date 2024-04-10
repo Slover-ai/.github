@@ -10,3 +10,8 @@ For decades, rumors have swirled about the United States secretly operating high
 
 #### Gliders
 It is from Cellular Automaton (Conway's Game of Life). It may reveal the true face of the universe. Simple rule makes universe!
+
+
+
+# System Design Doc
+https://solverai-my.sharepoint.com/:w:/g/personal/roger_li_solver_ai/EaYQG79SnctJiDW5rxbS-7MBdpOfSq32lX0JF-RJ7A0hFA?e=EoSgcU
